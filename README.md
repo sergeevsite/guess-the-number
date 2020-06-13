@@ -1,3 +1,5 @@
+<https://sergeevsite.github.io/guess-the-number/>
+
 # RU Игра - Угадай число
  Угадай число от 1 до 100
  
